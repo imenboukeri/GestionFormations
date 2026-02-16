@@ -1,0 +1,27 @@
+body {
+font-family: 'Times New Roman', Times, serif, sans-serif;
+background-color: #d8b6dc;
+margin: 20px;
+}
+h1 {
+color:#35044c;
+}
+p {
+margin: 10px 0;
+}
+form {
+background: white;
+padding: 20px;
+width: 300px;
+border-radius: 5px;
+}
+input {
+width: 100%;
+padding: 8px;
+}
+input[type="submit"] {
+background-color: #3498db;
+color: white;
+border: navy;
+cursor: pointer;
+}
